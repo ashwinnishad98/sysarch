@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Adafruit I2S Mic SPK0415HM4H")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit I2S Mic SPK0415HM4H.pretty")(options "")(descr ""))
+)
