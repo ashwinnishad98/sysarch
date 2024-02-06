@@ -4,6 +4,9 @@
 This device aims to provide a non-invasive way of tracking an individual's sleep quality. It will leverage a force sensor that is placed underneath a mattress to quantify time spent in Rapid Eye Movement (REM) and Non-Rapid Eye Movement (Non-REM) sleep. The user will be able to see their sleep quality once awake, through a stepper-motor controlled gauge needle that indicated sleep quality percentage, which ranges from 0-100%.
 ![Device Sketch](./images/device.jpeg/)
 
+## Power Consumption Spreadsheet
+[URL](https://docs.google.com/spreadsheets/d/1Ds0gf-FW2-m5mJB0DvBmWuOtr-a-fM6qRe99MvLTX7Y/edit#gid=1000455818)
+
 # Processor
 ## Seeed Xiao ESP32 S3
 This microcontroller has both Wi-Fi and bluetooth capabilties, combined with a small form factor which is ideal for this device. It has 2 pins that can be used for supplying voltage, either 5V or 3.3V.
