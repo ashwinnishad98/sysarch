@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.0,
-          "width": 1.075
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FinalProject.kicad_pro",
+    "filename": "display_pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -469,7 +469,7 @@
   },
   "sheets": [
     [
-      "638d7e42-ca8a-4d6c-bef6-8e8c0e28c36a",
+      "02868126-5023-4d85-9e70-6d97aa06672c",
       ""
     ]
   ],
